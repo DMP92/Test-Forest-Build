@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/DMP92/Test-Forest-Build/static/css/main.967b7a0a.css",
-    "main.js": "/DMP92/Test-Forest-Build/static/js/main.65c9ee7a.js",
-    "index.html": "/DMP92/Test-Forest-Build/index.html",
-    "main.967b7a0a.css.map": "/DMP92/Test-Forest-Build/static/css/main.967b7a0a.css.map",
-    "main.65c9ee7a.js.map": "/DMP92/Test-Forest-Build/static/js/main.65c9ee7a.js.map"
+    "main.css": "/DMP92/Test-Forest-Build/build/static/js/main.65c9ee7a.js/static/css/main.967b7a0a.css",
+    "main.js": "/DMP92/Test-Forest-Build/build/static/js/main.65c9ee7a.js/static/js/main.65c9ee7a.js",
+    "index.html": "/DMP92/Test-Forest-Build/build/static/js/main.65c9ee7a.js/index.html",
+    "main.967b7a0a.css.map": "/DMP92/Test-Forest-Build/build/static/js/main.65c9ee7a.js/static/css/main.967b7a0a.css.map",
+    "main.65c9ee7a.js.map": "/DMP92/Test-Forest-Build/build/static/js/main.65c9ee7a.js/static/js/main.65c9ee7a.js.map"
   },
   "entrypoints": [
     "static/css/main.967b7a0a.css",
